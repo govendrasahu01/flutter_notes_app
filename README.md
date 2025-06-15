@@ -1,4 +1,4 @@
-# db_sqlite
+# Flutter Notes App
 
 A new Flutter project.
 
