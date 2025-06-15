@@ -1,16 +1,33 @@
 # Flutter Notes App
 
-A new Flutter project.
+This is my first Flutter app — a simple **Notes application** built using **Flutter** and **SQLite**.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Add, edit, and delete notes (CRUD operations)
+- Local storage using `sqflite` package
+- Clean UI with `StatefulWidget`-based state management
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**
+- **SQLite** (via `sqflite`)
+- **Stateful Widgets** for logic handling
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 What's Next
+
+I’m currently learning advanced Flutter concepts. In my upcoming apps, I will be implementing **global state management** using:
+- `provider`
+- `bloc / cubit`
+- `riverpod`
+- `getx`
+
+Stay tuned for more projects and improvements!
+
+## 📚 Resources for Beginners
+
+If you're new to Flutter, here are some great resources:
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook](https://docs.flutter.dev/cookbook)
+- [Flutter Official Docs](https://docs.flutter.dev/)
+
